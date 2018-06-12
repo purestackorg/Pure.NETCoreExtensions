@@ -1,47 +1,50 @@
 # Pure.NETCoreExtentensions
 NET Core Extentsion methods(support NET Core2.0+)
+Some methods are to adapt to ASPNET MVC or WebForm (Net Framework)
+
 
 Include Extensions methods:
-    DistributedCacheExtensions
-    ConfigurationExtensions
-    CookiesExtensions
-    ServiceCollectionExtensions
-    EnvironmentExtensions
-    HttpContextExtensions
-    HttpRequestExtentions
-    FormFileExtentions
-    HeaderDictionaryExtensions
-    DefaultIdentityUserClaimsExtensions
-    LoggerFactoryExtensions
-    UrlHelperExtensions
-    SmtpEmailSenderExtensions
-    WebHostBuilderExtensions
-    ApplicationBuilderExtensions
+.DistributedCacheExtensions
+.ConfigurationExtensions
+.CookiesExtensions
+.ServiceCollectionExtensions
+.EnvironmentExtensions
+.HttpContextExtensions
+.HttpRequestExtentions
+.FormFileExtentions
+.HeaderDictionaryExtensions
+.DefaultIdentityUserClaimsExtensions
+.LoggerFactoryExtensions
+.UrlHelperExtensions
+.SmtpEmailSenderExtensions
+.WebHostBuilderExtensions
+.ApplicationBuilderExtensions
+
 
 Include Middlewares:
-    FriendlyExceptionsMiddleware
-    HtmlMinificationMiddleware
-    HttpExceptionMiddleware
-    InternalServerErrorOnExceptionMiddleware
-    NoServerHttpHeaderMiddleware
-    ClientRateLimitMiddleware
-    IpRateLimitMiddleware
-    StatisticsMiddleware
+.FriendlyExceptionsMiddleware
+.HtmlMinificationMiddleware
+.HttpExceptionMiddleware
+.InternalServerErrorOnExceptionMiddleware
+.NoServerHttpHeaderMiddleware
+.ClientRateLimitMiddleware
+.IpRateLimitMiddleware
+.StatisticsMiddleware
 
 
 Include commons:
-    BaseController
-    BaseControllerWithIdentity
-    TokenBucketLimitingService
-    LeakageBucketLimitingService
-    Platform
+BaseController
+BaseControllerWithIdentity
+TokenBucketLimitingService
+LeakageBucketLimitingService
+Platform
 
 
 
 
 How to use :
 
-1.import these packagesï¼š
+1.import these packages£º
   <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.0.3" />
     <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.0.3" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.0.4" />
@@ -91,7 +94,7 @@ How to use :
 		
 4.go !
 
-![image](https://raw.githubusercontent.com/purestack/Pure.NETCoreExtentensions/master/Pure.NetCoreExtensions.Test/1.jpg)
+
 
 
 

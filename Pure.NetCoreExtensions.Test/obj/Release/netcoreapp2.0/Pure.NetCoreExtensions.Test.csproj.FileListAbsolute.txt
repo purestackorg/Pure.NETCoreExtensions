@@ -1,0 +1,13 @@
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions.Test\bin\Release\netcoreapp2.0\Pure.NetCoreExtensions.Test.deps.json
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions.Test\bin\Release\netcoreapp2.0\Pure.NetCoreExtensions.Test.runtimeconfig.json
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions.Test\bin\Release\netcoreapp2.0\Pure.NetCoreExtensions.Test.runtimeconfig.dev.json
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions.Test\bin\Release\netcoreapp2.0\Pure.NetCoreExtensions.Test.dll
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions.Test\bin\Release\netcoreapp2.0\Pure.NetCoreExtensions.Test.pdb
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions.Test\bin\Release\netcoreapp2.0\Pure.NetCoreExtensions.dll
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions.Test\bin\Release\netcoreapp2.0\Pure.NetCoreExtensions.pdb
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions.Test\obj\Release\netcoreapp2.0\Pure.NetCoreExtensions.Test.csprojResolveAssemblyReference.cache
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions.Test\obj\Release\netcoreapp2.0\Pure.NetCoreExtensions.Test.csproj.CoreCompileInputs.cache
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions.Test\obj\Release\netcoreapp2.0\Pure.NetCoreExtensions.Test.AssemblyInfoInputs.cache
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions.Test\obj\Release\netcoreapp2.0\Pure.NetCoreExtensions.Test.AssemblyInfo.cs
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions.Test\obj\Release\netcoreapp2.0\Pure.NetCoreExtensions.Test.dll
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions.Test\obj\Release\netcoreapp2.0\Pure.NetCoreExtensions.Test.pdb

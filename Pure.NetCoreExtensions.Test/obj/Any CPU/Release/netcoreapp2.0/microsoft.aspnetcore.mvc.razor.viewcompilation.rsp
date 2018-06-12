@@ -1,0 +1,8 @@
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions.Test
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=Pure.NetCoreExtensions.Test
+--content-root=E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions.Test
+--file=E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions.Test\Views\HelloWorld\Index.cshtml
+--file=E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions.Test\Views\Shared\_Layout.cshtml
+--file=E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions.Test\Views\Shared\_ViewImports.cshtml
+--file=E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions.Test\Views\Shared\_ViewStart.cshtml

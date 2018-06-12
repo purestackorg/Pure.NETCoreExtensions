@@ -1,0 +1,9 @@
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions\bin\Release\netstandard2.0\Pure.NetCoreExtensions.deps.json
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions\bin\Release\netstandard2.0\Pure.NetCoreExtensions.dll
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions\bin\Release\netstandard2.0\Pure.NetCoreExtensions.pdb
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions\obj\Release\netstandard2.0\Pure.NetCoreExtensions.csprojResolveAssemblyReference.cache
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions\obj\Release\netstandard2.0\Pure.NetCoreExtensions.csproj.CoreCompileInputs.cache
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions\obj\Release\netstandard2.0\Pure.NetCoreExtensions.AssemblyInfoInputs.cache
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions\obj\Release\netstandard2.0\Pure.NetCoreExtensions.AssemblyInfo.cs
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions\obj\Release\netstandard2.0\Pure.NetCoreExtensions.dll
+E:\Benson\Source\RoGenerator\Pure\Pure.NETCore.Ext\Pure.NetCore.Ext\Pure.NetCoreExtensions\obj\Release\netstandard2.0\Pure.NetCoreExtensions.pdb

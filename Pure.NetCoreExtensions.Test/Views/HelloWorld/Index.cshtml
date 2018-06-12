@@ -1,0 +1,137 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "_Layout";
+}
+@using Pure.NetCoreExtensions;
+<h2>Hello World!</h2>
+@DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss fff")
+
+<h3>Config</h3>
+<p>
+    ConnectionString: @ConfigurationManager.Configuration.GetConnectionString()
+</p>
+<h3>AppSetting</h3>
+<p>
+    <table>
+        <tr>
+            <td>Key1</td>
+            <td> @ConfigurationManager.AppSettings["Key1"]</td>
+        </tr>
+        <tr>
+            <td>Key2</td>
+            <td> @ConfigurationManager.AppSettings["Key2"]</td>
+        </tr>
+        <tr>
+            <td>Key2</td>
+            <td> @ConfigurationManager.AppSettings["Key3"]</td>
+        </tr>
+    </table>
+
+</p>
+
+
+<h3>Env</h3>
+<p>
+    <table>
+        <tr>
+            <td>ApplicationName</td>
+            <td> @GlobalHostEnvironment.ApplicationName </td>
+        </tr>
+        <tr>
+            <td>ContentRootPath</td>
+            <td> @GlobalHostEnvironment.ContentRootPath </td>
+        </tr>
+        <tr>
+            <td>EnvironmentName</td>
+            <td> @GlobalHostEnvironment.EnvironmentName </td>
+        </tr>
+        <tr>
+            <td>WebRootPath</td>
+            <td> @GlobalHostEnvironment.WebRootPath </td>
+        </tr>
+
+    </table>
+
+</p>
+
+
+<h3>Platform</h3>
+<p>
+    <table>
+        <tr>
+            <td>OS</td>
+            <td> @Platform.OS </td>
+        </tr>
+        <tr>
+            <td>Is64BitOperatingSystem</td>
+            <td> @Platform.Is64BitOperatingSystem </td>
+        </tr>
+        <tr>
+            <td>OSDescription</td>
+            <td> @Platform.OSDescription </td>
+        </tr>
+        <tr>
+            <td>OSArchitecture</td>
+            <td> @Platform.OSArchitecture </td>
+        </tr>
+        <tr>
+            <td>ProcessArchitecture</td>
+            <td> @Platform.ProcessArchitecture </td>
+        </tr>
+        <tr>
+            <td>RuntimeType</td>
+            <td> @Platform.RuntimeType </td>
+        </tr>
+
+
+    </table>
+
+</p>
+
+
+
+<h3>HttpContext</h3>
+<p>
+    <table>
+        <tr>
+            <td>Current</td>
+            <td> @GlobalHttpContext.Current   </td>
+        </tr>
+        <tr>
+            <td>Request.GetClientIpAddress </td>
+            <td> @GlobalHttpContext.Current.Request.GetClientIpAddress()   </td>
+        </tr>
+        <tr>
+            <td>Request.IsLocalRequest </td>
+            <td> @GlobalHttpContext.Current.Request.IsLocalRequest()   </td>
+        </tr>
+        <tr>
+            <td>Request.GetConnectionId </td>
+            <td> @GlobalHttpContext.Current.Request.GetConnectionId()   </td>
+        </tr>
+        <tr>
+            <td>Request.ContentLength </td>
+            <td> @GlobalHttpContext.Current.Request.GetRequestId()   </td>
+        </tr>
+        <tr>
+            <td>Request.GetUserAgent </td>
+            <td> @GlobalHttpContext.Current.Request.GetUserAgent()   </td>
+        </tr>
+
+        <tr>
+            <td>Response.ContentLength </td>
+            <td> @GlobalHttpContext.Current.Response.ContentLength   </td>
+        </tr>
+        <tr>
+            <td>Response.ContentType </td>
+            <td> @GlobalHttpContext.Current.Response.ContentType   </td>
+        </tr>
+
+        <tr>
+            <td>Response.StatusCode </td>
+            <td> @GlobalHttpContext.Current.Response.StatusCode   </td>
+        </tr>
+    </table>
+
+</p>
