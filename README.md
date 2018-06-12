@@ -91,7 +91,7 @@ How to use :
 		
 4.go !
 
-![image](https://raw.githubusercontent.com/purestack/Pure.NETCoreExtentensions/master/Pure.NetCoreExtensions.Test/1.jpg)
+![image](https://raw.githubusercontent.com/purestackorg/Pure.NETCoreExtensions/master/Pure.NetCoreExtensions.Test/1.jpg)
 
 
 
